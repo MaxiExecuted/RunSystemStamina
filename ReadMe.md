@@ -27,7 +27,7 @@ This project implements a running system for Roblox games, where players consume
 
 ## Error Checking
 - Both scripts (`RunSystemServer.luau` and `RunSystemClient.luau`) have no syntax errors as of the latest check.
-- If you do find an error, Direct Message @MaxiExecuted on Discord
+- If you do find an error, Direct Message @MaxiExecuted on Discord.
 
 ## Notes
 - The system can be extended with UI feedback, anti-exploit checks, or custom stamina regeneration rates.
